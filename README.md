@@ -1,4 +1,4 @@
-# OrificePlate-Sizing
+# Orifice Plate Sizing Convergence Algorithm
 Orifice plate sizing convergence algorithm implementing with GUI - Instrumentations Lab - Petroleum University of Technology
 
  Development of Orifice Plate Sizing Calculations Program
